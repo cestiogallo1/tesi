@@ -1,0 +1,8 @@
+{'n_estimators': 300, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'sqrt', 'max_depth': None, 'bootstrap': False}
+Random Forest Mse: 48.8079
+Random Forest Mae: 4.1011
+
+
+Best parameters found for {nome}:  {'subsample': 0.7, 'reg_alpha': 1.0, 'n_estimators': 200, 'min_child_weight': 10, 'max_depth': 15, 'learning_rate': 0.05, 'gamma': 0.0, 'colsample_bytree': 0.8}
+XGB Mse: 39.6062
+XGB Mae: 3.6380

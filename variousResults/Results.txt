@@ -1,0 +1,36 @@
+RandomForestRegressor()
+Media R^2: 0.6346
+Media MSE: 50.0070
+Media MAE: 4.0907
+LinearRegression()
+Media R^2: 0.5273
+Media MSE: 65.2768
+Media MAE: 4.8773
+AdaBoostRegressor(random_state=42)
+Media R^2: 0.3046
+Media MSE: 92.7576
+Media MAE: 7.9525
+Ridge()
+Media R^2: 0.6010
+Media MSE: 54.5214
+Media MAE: 4.7635
+Lasso()
+Media R^2: 0.1944
+Media MSE: 112.6922
+Media MAE: 7.4650
+SVR(C=100, gamma=0.1)
+Media R^2: 0.5642
+Media MSE: 59.5933
+Media MAE: 5.0042
+GradientBoostingRegressor(random_state=42)
+Media R^2: 0.6018
+Media MSE: 54.4502
+Media MAE: 4.4792
+KNeighborsRegressor()
+Media R^2: 0.1517
+Media MSE: 117.6252
+Media MAE: 7.0150
+XGBRegressor()
+Media R^2: 0.6191
+Media MSE: 51.8505
+Media MAE: 4.2167
